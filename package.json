@@ -4,7 +4,8 @@
   "description": "Projeto final e individual do módulo de Logica de Programação do curso Santander Coders 2023",
   "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node main.js"
   },
   "repository": {
     "type": "git",
